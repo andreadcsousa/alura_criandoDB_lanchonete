@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="https://app.powerbi.com/view?r=eyJrIjoiZTFjYzJkYzYtMjUwMi00NjFjLWJmYzQtZWFlNzM5NmQzMzhjIiwidCI6ImEzZTU3Zjc1LTU5YTktNDFkOS05ZGIwLTA0YmM0ODg2YWY3NyJ9" target="_blank">Veja o dashboard</a>
- &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  :white_check_mark: <a href="https://www.alura.com.br/challenges/bi/semana-03-04-financeiro" target="_blank">Conheça o curso</a>
+   :white_check_mark: <a href="https://cursos.alura.com.br/course/administracao-do-sql-server-2017" target="_blank">Conheça o curso</a>
 </p>
+
+PS. O curso é focado no SQL Server, porém escrevi os códigos no MySQL.
 
 # :computer: Projeto
  
